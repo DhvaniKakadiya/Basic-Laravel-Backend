@@ -10,6 +10,8 @@ Backend of website using laravel.Website has collection of all indian web series
 4.Error Page  
 5.Add,update and delete series,seasons,episodes,persons,characters,creators,soundtracks,did you know of series in database  
 
+->Link : http://ombs.000webhostapp.com/  
+
 ->Use following username and password for login:  
     Username:kakadiyadhvani@gmail.com  
     Password:qwerty  
